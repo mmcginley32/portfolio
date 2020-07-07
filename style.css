@@ -1,0 +1,16 @@
+h2{
+float: right;
+padding-top: 34px;
+background-color:rgb(144, 241, 144);
+}
+h1{
+   float: right;
+   padding-top: 34px;
+   background-color: rgb(144, 241, 144); 
+   top: 0px;
+}
+footer {
+    text-align: center;
+    background-color: silver;
+    padding: 20px;
+}
